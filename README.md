@@ -20,3 +20,5 @@ I have done the first one for you, as an example.
 | $f(n)= 4n^5 $ | 2 | $g(n)= 5n^4$ |
 | $f(n) = 10^{256}$ | 1 | $g(n) = \log n$ |
 | $f(n)= n^2 $ | 4 | $g(n)= 2^n$ |
+
+Referenced another students repository to make sure I was on the right track and properly understood the assignment.
